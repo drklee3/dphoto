@@ -15,7 +15,7 @@ path = "src/main.rs"
 [dependencies]
 actix-cors = "0.2.0"
 actix-files = "0.2.2"
-actix-http = "1.0.1"
+actix-http = "2.2.1"
 actix-identity = "0.2.1"
 actix-rt = "1.1.1"
 actix-web = "2.0.0"
